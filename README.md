@@ -33,8 +33,6 @@ Historical daily energy consumption data (2019–2023) from Brazil's [National S
 
 - **Training:** 2019–2022
 - **Testing:** 2023 (365 days)
-- **Sliding window:** 30 days → 1-day ahead prediction
-- **Normalization:** MinMax scaling (−1, +1)
 
 
 ## Requirements
